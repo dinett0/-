@@ -6,10 +6,10 @@
 
 [-Задание 2: Операции над динамическим массивом](https://github.com/dinett0/1-task/blob/main/2nd%20task.cpp)
 
-[-Задание 3: Операции над векторным массивом](3d task.cpp)
+[-Задание 3: Операции над векторным массивом](https://github.com/dinett0/1-task/blob/main/3d%20task.cpp)
 
-[-Задание 4: Алгоритм поиска в неотсортированных массивах](4th task.cpp)
+[-Задание 4: Алгоритм поиска в неотсортированных массивах](https://github.com/dinett0/1-task/blob/main/4th%20task.cpp)
 
-[-Задание 5: Алгоритм поиска в отсортированных массивах](5th task.cpp)
+[-Задание 5: Алгоритм поиска в отсортированных массивах](https://github.com/dinett0/1-task/blob/main/5th%20task.cpp)
 
-[-Задание 6: Алгоритмы поиска строк в тексте](6th task.cpp)
+[-Задание 6: Алгоритмы поиска строк в тексте](https://github.com/dinett0/1-task/blob/main/6th%20task.cpp)
